@@ -1,4 +1,4 @@
 # responsivePortfolio
-Stevi Malinowsk's Responsive Portfolio
+Stevi Malinowsk's Responsive Portfolio Beta Sight
 
-This project was about incorperating responsive design using bootstrap and bootstrap grid system as well as, static html into a protfolio styled theme. we were required to have at least the three pages of Home/Index - Portfolio - Contact. All HTML was to be verified with a validation service. We also had to make sure to use semantic HTML and have working links. 
+This website is demonstrating different uses of Bootstrap components and the use of being responsive. This is Stevi Jo Malinowski continue developement of creating a strong display of her portfolio content for furture employers to see growth and developement of new skills and application. 
