@@ -7,3 +7,13 @@
     padding-top: 10px;
 }
 
+article {
+    padding-top: 20px;
+}
+#articalBody {
+    background-color: rgb(244, 224, 250);
+}
+.mr-3{
+    border-image-width: 150px;
+    
+}
