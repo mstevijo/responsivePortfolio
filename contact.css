@@ -1,0 +1,13 @@
+.bg-company-red{
+    background-color: rgb(11, 8, 14);
+}
+footer{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(11, 8, 14);
+    color:white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

@@ -9,11 +9,24 @@
 
 article {
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 #articalBody {
-    background-color: rgb(244, 224, 250);
+    /* background-color: rgb(244, 224, 250); */
+    padding-bottom: 50px;
 }
-.mr-3{
-    border-image-width: 150px;
     
+
+footer{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 2px;
+    border-color: plum;
+    background-color: rgb(11, 8, 14);
+    color:white;
+
+}
+.bg-company-indigo{
+    background-color: rgb(11, 8, 14);
 }
