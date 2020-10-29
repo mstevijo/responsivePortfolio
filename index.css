@@ -15,8 +15,15 @@ article {
     /* background-color: rgb(244, 224, 250); */
     padding-bottom: 50px;
 }
-    
-
+html{
+    /* height: 100%;
+    margin: 0;
+    padding: 0; */
+}    
+#wrapper{
+    min-height: 100%;
+    position: relative;
+}
 footer{
     text-align: center;
     padding-top: 30px;
@@ -25,8 +32,25 @@ footer{
     border-color: plum;
     background-color: rgb(11, 8, 14);
     color:white;
+    
+    
+    width: 100%;
+    left: 0;
+    
+    bottom: 0;
+    position: absolute;
+    
 
 }
 .bg-company-indigo{
     background-color: rgb(11, 8, 14);
+}
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(rgb(81, 64, 97), rgb(153, 62, 161), rgb(253, 220, 252));
+    
+    
+   
 }

@@ -17,3 +17,9 @@ footer{
 .mt-0{
     padding-top:30px;
 }
+body {
+    background: linear-gradient(rgb(81, 64, 97), rgb(153, 62, 161), rgb(253, 148, 248));
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+   
+}
