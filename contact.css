@@ -1,13 +1,29 @@
-.bg-company-red{
-    background-color: rgb(11, 8, 14);
+.bg-company-red {
+  background-color: rgb(11, 8, 14);
 }
-footer{
-    text-align: center;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    background-color: rgb(11, 8, 14);
-    color:white;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+footer {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(11, 8, 14);
+  color: white;
+  position: fixed !important;
+  bottom: 0;
+  width: 100%;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(rgb(171, 171, 172), rgb(250, 248, 250));
+}
+
+#img-fluid {
+  padding-bottom: 15px;
+  margin-bottom: 10px;
+}
+
+#btn {
+  color: white;
 }
